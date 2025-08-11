@@ -6,7 +6,7 @@ This repository contains foundational C++ programming exercises and assignments 
 
 - **Course**: C++ Programming  
 - **Semester**: 1st Year, 1st Semester  
-- **Program**: BSc. in Information Technology  
+- **Programme**: BSc. in Information Technology  
 - **University**: University of Vavuniya, Sri Lanka  
 - **Created by**: Suleka Dissanayake  
 
